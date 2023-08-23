@@ -32,6 +32,8 @@ public class Assignment1 {
 		
 		switch(choice)
 		{
+		
+		//commit
 			
 		case 2:
 			System.out.println("Enter another sentence : ");

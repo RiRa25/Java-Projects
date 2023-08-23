@@ -33,7 +33,9 @@ public class Assignment1 {
 		switch(choice)
 		{
 		
-		//commit
+		case 1:
+			System.out.println("The length of " + s1 + " is " + size1);
+			break;
 			
 		case 2:
 			System.out.println("Enter another sentence : ");
